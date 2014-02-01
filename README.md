@@ -11,5 +11,5 @@ wish to use) that execute my lifx node scripts:
 Example: `~/Library/Speech/SpeakableItems/Lights On`
 
 ```applescript
-do shell script "/usr/local/bin/node /Users/matt/projects/lifx/home-commands.js on"
+do shell script "/usr/local/bin/node ~/projects/lifx/home-commands.js on"
 ```
